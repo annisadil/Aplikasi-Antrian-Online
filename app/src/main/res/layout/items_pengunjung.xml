@@ -29,10 +29,10 @@
             android:text="Suwandi" />
 
         <TextView
-            android:id="@+id/no_antri"
+            android:id="@+id/jumlahPengunjung"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:textSize="16sp"
-            android:text="Poli Penyakit Dalam" />
+            android:text="Jumlah Pasien" />
     </LinearLayout>
 </LinearLayout>
