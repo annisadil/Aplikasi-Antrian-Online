@@ -1,0 +1,3 @@
+rootProject.name='Aplikasi Antrian'
+include ':app'
+include ':userantrian'
